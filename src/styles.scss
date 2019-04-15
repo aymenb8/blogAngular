@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+
+.listep{ list-style: none;}
+.listep li span:first-child{ color: #999999; float: right;}
+.listep li{margin-bottom: 10px;}
+.listep li button:last-child{margin-left: 15px;}
